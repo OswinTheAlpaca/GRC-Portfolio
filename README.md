@@ -71,11 +71,14 @@ Communication exécutive
 
 
 GRC PORTFOLIO – JOHANNA KOUGBEADJO
- Cybersecurity Consultant | Master in Cybersecurity Management & Policy (March 2026)
- ISO 27001 Provisional Implementer
+Cybersecurity Consultant | Master in Cybersecurity Management & Policy (March 2026)
+ISO 27001 Provisional Implementer
+ 
 ABOUT THIS PORTFOLIO
+
 This portfolio gathers professional deliverables completed as part of my Master’s degree in Cybersecurity Management & Policy (University of Maryland Global Campus, 2024–2026).
 Each project reflects my ability to:
+
     • Analyze complex cybersecurity challenges
 
     • Apply recognized frameworks (NIST, ISO 27001)
@@ -87,6 +90,7 @@ Each project reflects my ability to:
     • Communicate with diverse audiences (technical and executive)
 
 PROJECTS BY CATEGORY
+
 Risk Management
     1. AI VENDOR RISK MANAGEMENT REPORT
  Third-party AI risk analysis including an assessment matrix and recommendations aligned with the NIST AI Risk Management Framework.
